@@ -57,7 +57,7 @@ Por ser um projeto puramente estático (Vanilla JS), ele não requer ferramentas
 1. **Clone o repositório**:
 
    ```bash
-   git clone 
+   git clone https://github.com/FernandoCyber3/Refund-1.0
    cd Refund
 Acesse a aplicação:
 
